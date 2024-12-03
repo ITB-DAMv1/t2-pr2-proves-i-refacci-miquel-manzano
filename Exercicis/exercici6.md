@@ -46,5 +46,3 @@ Se nos descargara un zip, y solo tendremos que descomprimirlo en la carpeta dond
 
 Al descomprimirlo iremos a la ruta del programa y buscaremos este fitxero .bat, y lo iniciamos, esto iniciara el programa SonarQube. :P
 
-
-
