@@ -55,3 +55,7 @@ Funcions on he aplicat els Unit Test
 En aquest cas, com que no hem de comprobar rangs, no tenim casos extrems, aixi que he fet un Unit Test per cada funcio que verifiques que el resultat retornat fosi correcte:
 
 ![alt text](./img/UnitTest.png)
+
+
+
+miquel
